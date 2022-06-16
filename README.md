@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emrebeskazak
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning VHDL
+- 🌱 I’m currently learning Python, VHDL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
